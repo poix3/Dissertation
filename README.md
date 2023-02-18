@@ -1,0 +1,1 @@
+# Explainable Legal Judgment Forecasting with Graph Meaning Representations
